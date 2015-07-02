@@ -1,6 +1,7 @@
 'use strict';
 
 var ect = require('ect');
+var path = require('path');
 
 exports.name = 'ect';
 exports.outputFormat = 'html';
