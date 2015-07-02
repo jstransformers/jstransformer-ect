@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jstransformer-ect
 
 [ECT](http://ectjs.com/) support for [JSTransformers](http://github.com/jstransformers).
