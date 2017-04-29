@@ -1,5 +1,7 @@
 # jstransformer-ect
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-ect.svg)](https://greenkeeper.io/)
+
 [ECT](http://ectjs.com/) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-ect/master.svg)](https://travis-ci.org/jstransformers/jstransformer-ect)
