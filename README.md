@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var ect = require('jstransformer')(require('jstransformer-ect'));
+var ect = require('jstransformer')(require('jstransformer-ect'))
 
 ect.render('Hello <%- @name %>!', {name: 'World'}).body
 //=> 'Hello World!'
